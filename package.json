@@ -1,6 +1,7 @@
 {
   "name": "generate-whatsapp-link",
   "version": "0.1.0",
+  "homepage": "http://app.opus.inc/gerador-whatsapp-link",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
